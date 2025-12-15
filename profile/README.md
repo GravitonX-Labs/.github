@@ -17,7 +17,7 @@
   <a href="https://github.com/MustafijRatul">
     <img src="https://img.shields.io/badge/👨‍💻_Architect-Md._Mustafijur_Rahman_Ratul-000000?style=for-the-badge&logo=github&logoColor=white&color=5D5FEF" height="35" />
   </a>
-  <a href="mailto:ratul12208108@gmail.com
+  <a href="mailto:ratul12208108@gmail.com"
     <img src="https://img.shields.io/badge/📧_Contact-Business_Inquiry-000000?style=for-the-badge&logo=gmail&logoColor=FF5555&color=101010" height="35" />
   </a>
 
