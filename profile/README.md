@@ -1,61 +1,70 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5D5FEF&height=200&section=header&text=GravitonX%20Labs&fontSize=70&fontAlign=50&fontColor=ffffff&desc=Engineering%20the%20Future%20of%20Windows%20Productivity&descAlign=50&descAlignY=60" width="100%" />
+  <!-- DYNAMIC WAVING HEADER WITH BRAND COLORS -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,5D5FEF,A5A6F6,00F0FF&height=220&section=header&text=GravitonX%20Labs&fontSize=70&fontAlign=50&fontAlignY=35&desc=Engineering%20the%20Impossible&descAlign=50&descAlignY=60&animation=fadeIn" width="100%" />
+
+  <!-- HACKER TYPING EFFECT -->
+  <a href="https://gravitonx-labs.github.io/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=5D5FEF&center=true&vCenter=true&width=600&lines=Building+High-Performance+Desktop+Utilities;Home+of+The+PrismCore+Framework;Physics-Based+Productivity+Tools;Regain+Focus.+Defy+Gravity." alt="Typing Effect" />
+  </a>
 
   <br />
 
-  <!-- BADGES -->
+  <!-- PROFESSIONAL BADGES -->
   <a href="https://gravitonx-labs.github.io/">
-    <img src="https://img.shields.io/badge/Website-GravitonX_Labs-5D5FEF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_Website-gravitonx--labs.github.io-000000?style=for-the-badge&logo=googlechrome&logoColor=00F0FF&color=101010" height="35" />
   </a>
-  <a href="https://github.com/MustafijRatul/FocusGuardRepo">
-    <img src="https://img.shields.io/badge/Flagship-FocusGuard_Pro-00D26A?style=for-the-badge&logo=windows&logoColor=white" />
+  <a href="https://github.com/MustafijRatul">
+    <img src="https://img.shields.io/badge/👨‍💻_Architect-Mustafijur_Rahman_Ratul-000000?style=for-the-badge&logo=github&logoColor=white&color=5D5FEF" height="35" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Contact-Business_Inquiry-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:contact@gravitonx.com">
+    <img src="https://img.shields.io/badge/📧_Contact-Business_Inquiry-000000?style=for-the-badge&logo=gmail&logoColor=FF5555&color=101010" height="35" />
   </a>
-
-  <br /><br />
-
-  <p align="center">
-    <b>GravitonX Labs</b> is a specialized software research facility focused on building high-performance, physics-based desktop utilities. We merge advanced <b>Numerical Methods</b> with modern <b>Glassmorphism UI</b> to create software that feels alive.
-  </p>
 
 </div>
 
+<br />
+
+### 🧬 Our DNA
+
+**GravitonX Labs** is not just a software house; it is a research facility. We reject standard, boring Windows Forms. Instead, we merge **Advanced Numerical Methods** with our proprietary **PrismCore Visual Engine** to create desktop environments that feel alive, fluid, and futuristic.
+
 ---
 
-### 🛠️ Our Technology Stack
+### 📦 The Ecosystem
 
-We build our ecosystem using proprietary frameworks and industry-standard tools.
+| **Product** | **Status** | **Description** |
+| :--- | :---: | :--- |
+| **🛡️ FocusGuard Pro** | `v11.8 Live` | **The Ultimate Distraction Shield.**<br>Features strict app blocking, Verlet-X termination logic, and ambient soundscapes wrapped in a stunning glass UI. |
+| **🧪 Aether Lab** | `In Dev` | **Scientific Computing Reimagined.**<br>A futuristic approach to numerical methods featuring "Searchlight" solvers, neon regression curves, and 3D surface plotting. |
+| **🌌 HoloSpace** | `Concept` | **Physics-Based Desktop.**<br>Turns static icons into floating gravity orbs driven by real-time physics simulations. |
+| **👻 GhostFlow** | `Concept` | **Human-Like Automation.**<br>Records and replays complex workflows using Bezier curve interpolation to mimic human hand movement. |
+
+---
+
+### 🛠️ Technology Stack
+
+We build on the bleeding edge of Python Desktop Development.
 
 <div align="center">
 
 | **Core Engine** | **UI Framework** | **Physics & Math** | **Distribution** |
 | :---: | :---: | :---: | :---: |
 | ![Python](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white) | ![PrismCore](https://img.shields.io/badge/PrismCore_UI-A5A6F6?style=flat-square&logo=qt&logoColor=black) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) | ![Inno Setup](https://img.shields.io/badge/Inno_Setup-orange?style=flat-square) |
-| **Backend Logic** | **Windows API** | **Verlet-X Engine** | **Deployment** |
+| *Backend Logic* | *Acrylic / Glass* | *Verlet-X Engine* | *Deployment* |
 
 </div>
 
 ---
 
-### 📦 Product Ecosystem
-
-#### 🛡️ [FocusGuard Pro](https://github.com/MustafijRatul/FocusGuardRepo) `v11.8`
-> **The Ultimate Distraction Shield.**
-> Features strict app blocking, Pomodoro timers, and deep analytics. Built on the PrismCore framework with real-time Acrylic Blur.
-
-#### 🧪 [Aether Lab](https://github.com/GravitonX-Labs) `In Development`
-> **Next-Gen Scientific Computing.**
-> A futuristic approach to numerical methods, featuring "Searchlight" solvers, neon regression curves, and interactive 3D surface plotting.
-
-#### 🌌 [HoloSpace](https://github.com/GravitonX-Labs) `Concept`
-> **Physics-Based Desktop Environment.**
-> Replaces static icons with floating gravity orbs driven by the custom Verlet-X physics engine.
-
----
+### 📊 Lab Activity
 
 <div align="center">
-  <sub>© 2025 GravitonX Labs. Architected by <a href="https://github.com/MustafijRatul">Mustafijur Rahman Ratul</a>.</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=MustafijRatul&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" />
+</div>
+
+<br />
+
+<div align="center">
+  <sub>© 2025 <b>GravitonX Labs</b>. Engineering the Future.</sub>
 </div>
